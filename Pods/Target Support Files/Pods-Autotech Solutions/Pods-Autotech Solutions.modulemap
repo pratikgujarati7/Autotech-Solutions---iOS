@@ -1,0 +1,6 @@
+framework module Pods_Autotech_Solutions {
+  umbrella header "Pods-Autotech Solutions-umbrella.h"
+
+  export *
+  module * { export * }
+}
